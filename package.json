@@ -33,11 +33,11 @@
     "vite": "^8.0.12"
   },
   "lint-staged": {
-    "src/**/*.{js,jsx}": [
+    "**/*.{js,jsx}": [
       "eslint --fix",
       "prettier --write"
     ],
-    "src/**/*.{css,json,md}": [
+    "**/*.{css,json,md}": [
       "prettier --write"
     ]
   }
