@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome Vite + React con el profe Barrón</h1>
+      <h1>Welcome Vite + React con el profe </h1>
     </>
   );
 }
